@@ -28,8 +28,7 @@
 3. Lu, X., Fung, S., Wang, Y., Ouyang, W., Qing, X., & Li, H. I-Nema: A Large-Scale Microscopic Image Dataset for Nematode Recognition. Available at SSRN 4213402. [![Paper](https://img.shields.io/badge/Link-SSRN-green.svg)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4213402)
 
 
-### Robot Operating System 
-[![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)](https://www.ros.org/)
+### Robotics (ROS)
 
 Check out [this collection repo](https://github.com/SheldonFung98/AutodriveROS).
 <details open> 
