@@ -4,6 +4,17 @@
     <img src="https://raw.githubusercontent.com/SheldonFung98/SheldonFung98/main/Banner.png" alt="Sheldon Fung" /></a>
 </p>
 
+🎓 I hold a Ph.D. in Computer Vision, specializing in 2D/3D image processing using deep learning techniques. My research focuses on leveraging advanced algorithms to extract meaningful information from visual data.
+
+🔍 My interests span across various domains within computer vision, including point cloud processing, bio-identification, object detection, and robotics. I'm passionate about exploring how cutting-edge technologies can enhance our understanding and interaction with the visual world.
+
+💼 I'm always eager to collaborate on innovative projects or discuss the latest advancements in computer vision and related fields. Also, I'm available for hiring.
+
+🚀 Feel free to explore my repositories and reach out if you have any questions, suggestions, or opportunities for collaboration. Let's push the boundaries of technology together!
+
+---
+
+
 <h2 align="center">
   Github Stats :chart_with_upwards_trend:
 </h2>
