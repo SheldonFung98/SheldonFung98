@@ -52,25 +52,25 @@
 
   <p align="left">
     <a href="https://github.com/SheldonFung98/ObstacleDet">
-      <img width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=SheldonFung98&repo=ObstacleDet&show_owner=false&theme=gotham&show_icons=false" />
+      <img width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=SheldonFung98&repo=ObstacleDet&show_owner=false&theme=gotham&show_icons=true" />
     </a>
     <a href="https://github.com/SheldonFung98/WallStalker-Lidar">
-      <img width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=SheldonFung98&repo=WallStalker-Lidar&show_owner=false&theme=gotham&show_icons=false" />
+      <img width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=SheldonFung98&repo=WallStalker-Lidar&show_owner=false&theme=gotham&show_icons=true" />
     </a>
     <a href="https://github.com/SheldonFung98/RoadSideTrack-PyTorch">
-      <img width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=SheldonFung98&repo=RoadSideTrack-PyTorch&show_owner=false&theme=gotham&show_icons=false" />
+      <img width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=SheldonFung98&repo=RoadSideTrack-PyTorch&show_owner=false&theme=gotham&show_icons=true" />
     </a>
     <a href="https://github.com/SheldonFung98/ParkingSlotDet">
-      <img width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=SheldonFung98&repo=ParkingSlotDet&show_owner=false&theme=gotham&show_icons=false" />
+      <img width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=SheldonFung98&repo=ParkingSlotDet&show_owner=false&theme=gotham&show_icons=true" />
     </a>
     <a href="https://github.com/SheldonFung98/RTSP2ROS">
-      <img width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=SheldonFung98&repo=RTSP2ROS&show_owner=false&theme=gotham&show_icons=false" />
+      <img width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=SheldonFung98&repo=RTSP2ROS&show_owner=false&theme=gotham&show_icons=true" />
     </a>
     <a href="https://github.com/SheldonFung98/RoadSideTrack">
-      <img width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=SheldonFung98&repo=RoadSideTrack&show_owner=false&theme=gotham&show_icons=false" />
+      <img width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=SheldonFung98&repo=RoadSideTrack&show_owner=false&theme=gotham&show_icons=true" />
     </a>
     <a href="https://github.com/SheldonFung98/AprilTagNavr">
-      <img width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=SheldonFung98&repo=AprilTagNav&show_owner=false&theme=gotham&show_icons=false" />
+      <img width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=SheldonFung98&repo=AprilTagNav&show_owner=false&theme=gotham&show_icons=true" />
     </a>
   </p>
 </details>
