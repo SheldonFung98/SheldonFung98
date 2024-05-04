@@ -8,13 +8,11 @@
 [![FOI](https://img.shields.io/badge/Field-computer%20vision-red.svg)](https://github.com/SheldonFung98)
 
 
-🎓 I hold a Ph.D. in Computer Vision, specializing in 2D/3D image processing using deep learning techniques. My research focuses on leveraging advanced algorithms to extract meaningful information from visual data.
+🎓 I hold a Ph.D. in Computer Vision, specializing in 2D/3D image processing using deep learning techniques.
 
 🔍 My interests span across various domains within computer vision, including point cloud processing, bio-identification, object detection, and robotics. I'm passionate about exploring how cutting-edge technologies can enhance our understanding and interaction with the visual world.
 
-💼 I'm always eager to collaborate on innovative projects or discuss the latest advancements in computer vision and related fields. Also, I'm available for hiring.
-
-🚀 Feel free to explore my repositories and reach out if you have any questions, suggestions, or opportunities for collaboration. Let's push the boundaries of technology together!
+🚀 Always eager to collaborate on innovative projects. Feel free to explore my repositories and reach out if you have any questions, suggestions, or opportunities for collaboration. Let's push the boundaries of technology together! Also, I'm available for hiring.
 
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=Zjw1ttsAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheldon-fung-576a30288)
