@@ -46,9 +46,8 @@
 
 ### Robotics (ROS)
 
-Check out [this collection repo](https://github.com/SheldonFung98/AutodriveROS).
 <details open> 
-  <summary>Deep-learning Algorithms for Auto-drive System with ROS.</summary>
+  <summary>Deep-learning Algorithms for Auto-drive System with ROS. Check out <a href="https://github.com/SheldonFung98/AutodriveROS">this</a> collection repo.</summary>
 
   <p align="left">
     <a href="https://github.com/SheldonFung98/ObstacleDet">
