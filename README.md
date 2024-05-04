@@ -23,7 +23,8 @@
 ### Papers
 <details open> 
   <summary><b>Published Works</b></summary>
-  
+  &nbsp;
+
   - Deep detection for face manipulation - Deepfake detection
 
   > **_Feng, D._**, Lu, X., & Lin, X. (2020). Deep detection for face manipulation. In Neural Information Processing: 27th International Conference, ICONIP 2020, Bangkok, Thailand, November 18–22, 2020, Proceedings, Part V 27 (pp. 316-323). Springer International Publishing. [![Paper](https://img.shields.io/badge/Link-Springer-green.svg)](https://link.springer.com/chapter/10.1007/978-3-030-63823-8_37)
