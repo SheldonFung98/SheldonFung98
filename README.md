@@ -49,7 +49,7 @@
 
 <details open> 
   <summary>My Deep-learning Algorithms for Auto-drive System with ROS. Check out <a href="https://github.com/SheldonFung98/AutodriveROS">this</a> collection repo.</summary>
-
+  &nbsp;
   <p align="left">
     <a href="https://github.com/SheldonFung98/ObstacleDet">
       <img width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=SheldonFung98&repo=ObstacleDet&show_owner=false&theme=gotham&show_icons=true" />
@@ -78,7 +78,7 @@
 ### Tools
 <details open> 
   <summary>My Valuable Open-source Tools</summary>
-
+  &nbsp;
   <p align="left">
     <a href="https://github.com/SheldonFung98/PointScope">
       <img width=278 src="https://github-readme-stats.vercel.app/api/pin/?username=SheldonFung98&repo=PointScope&show_owner=false&theme=gotham&show_icons=true" />
