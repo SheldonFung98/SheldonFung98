@@ -25,26 +25,25 @@
   <summary><b>Published Works</b></summary>
   &nbsp;
 
-  - Deep detection for face manipulation - Deepfake detection
-
+  1. Deep detection for face manipulation &bull; Deepfake detection
   > **_Feng, D._**, Lu, X., & Lin, X. (2020). Deep detection for face manipulation. In Neural Information Processing: 27th International Conference, ICONIP 2020, Bangkok, Thailand, November 18–22, 2020, Proceedings, Part V 27 (pp. 316-323). Springer International Publishing. [![Paper](https://img.shields.io/badge/Link-Springer-green.svg)](https://link.springer.com/chapter/10.1007/978-3-030-63823-8_37)
-  - DeepKakeUCL - Deepfake detection
-    
+
+  2. DeepKakeUCL &bull; Deepfake detection
   > **_Fung, S._**, Lu, X., Zhang, C., & Li, C. T. (2021, July). Deepfakeucl: Deepfake detection via unsupervised contrastive learning. In 2021 international joint conference on neural networks (IJCNN) (pp. 1-8). IEEE. [![Paper](https://img.shields.io/badge/Link-IEEE-green.svg)](https://ieeexplore.ieee.org/abstract/document/9534089/)
-  - TopFormer - Point cloud registration
   
-  > **_Fung, S._**, Pan, W., Liu, X., Yearwood, J., Dazeley, R., & Lu, X. (2024, March). TopFormer: Topology-Aware Transformer for Point Cloud Registration. In International Conference on Computational Visual Media (pp. 112-128). Singapore: Springer Nature Singapore. [![Paper](https://img.shields.io/badge/Link-Springer-green.svg)](https://link.springer.com/chapter/10.1007/978-981-97-2095-8_7)
-  - Anatomical Landmarks Localization for 3D Foot Point Clouds - point cloud keypoint detection
-
-  > **_Fung, S._**, Lu, X., Mykolaitis, M., Razzak, I., Kostkevičius, G., & Ozerenskis, D. (2022, November). Anatomical Landmarks Localization for 3D Foot Point Clouds. In International Conference on Neural Information Processing (pp. 627-638). Cham: Springer International Publishing. [![Paper](https://img.shields.io/badge/Link-Springer-green.svg)](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_53)
- - Veintr - Hand vein identification (Joint first author)
-
-  > Lu, S., **_Fung, S._**, Pan, W., Wickramasinghe, N., & Lu, X. (2024). Veintr: robust end-to-end full-hand vein identification with transformer. The Visual Computer, 1-9. [![Paper](https://img.shields.io/badge/Link-IEEE-green.svg)](https://link.springer.com/article/10.1007/s00371-024-03286-6)
- - I-Nema - Nematode dataset & identification
-
+  3. I-Nema &bull; Nematode dataset & identification
   > Lu, X., **_Fung, S._**, Wang, Y., Ouyang, W., Qing, X., & Li, H. I-Nema: A Large-Scale Microscopic Image Dataset for Nematode Recognition. Available at SSRN 4213402. [![Paper](https://img.shields.io/badge/Link-SSRN-green.svg)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4213402)
-</details>
 
+  4. Anatomical Landmarks Localization for 3D Foot Point Clouds &bull; point cloud keypoint detection
+  > **_Fung, S._**, Lu, X., Mykolaitis, M., Razzak, I., Kostkevičius, G., & Ozerenskis, D. (2022, November). Anatomical Landmarks Localization for 3D Foot Point Clouds. In International Conference on Neural Information Processing (pp. 627-638). Cham: Springer International Publishing. [![Paper](https://img.shields.io/badge/Link-Springer-green.svg)](https://link.springer.com/chapter/10.1007/978-3-031-30111-7_53)
+
+  5. Veintr &bull; Hand vein identification (Joint first author)
+  > Lu, S., **_Fung, S._**, Pan, W., Wickramasinghe, N., & Lu, X. (2024). Veintr: robust end-to-end full-hand vein identification with transformer. The Visual Computer, 1-9. [![Paper](https://img.shields.io/badge/Link-IEEE-green.svg)](https://link.springer.com/article/10.1007/s00371-024-03286-6)
+  
+  6. TopFormer &bull; Point cloud registration
+  > **_Fung, S._**, Pan, W., Liu, X., Yearwood, J., Dazeley, R., & Lu, X. (2024, March). TopFormer: Topology-Aware Transformer for Point Cloud Registration. In International Conference on Computational Visual Media (pp. 112-128). Singapore: Springer Nature Singapore. [![Paper](https://img.shields.io/badge/Link-Springer-green.svg)](https://link.springer.com/chapter/10.1007/978-981-97-2095-8_7)
+ 
+</details>
 
 ### Robotics (ROS)
 
