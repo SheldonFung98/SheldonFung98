@@ -87,6 +87,14 @@
   </p>
 </details>
 
+### Experience
+<details open> 
+  <summary>Work Experience</summary>
+  
+  * Deep-learning Algorithm Engineer/Developer &bull; Infore Enviro, China &bull; 2021 - 2022
+  * Research Assistant &bull; Deakin University, Australia &bull; 2022 - 2023
+</details>
+
 <h2 align="center">
   Github Stats :chart_with_upwards_trend:
 </h2>
